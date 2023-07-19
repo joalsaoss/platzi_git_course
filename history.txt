@@ -1,6 +1,0 @@
-Este es un archivo de prueba
-
-Jose Alvaro Rodriguez Botero es Master en ciencia de datos con mas de 5 años de experiencia en proyectos de datos e 
-Ingeniero de Sistemas y computación con mas de 10 años de experiencia en proyectos de software.
-
-Actualmente trabaja para Michael Page como ingeniero de datos.
